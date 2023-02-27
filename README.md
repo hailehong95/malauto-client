@@ -1,3 +1,6 @@
+# Warning!
+The version of this tool is old. I no longer update this project. Please check the new version of the tool here: [**malcheck-client**](https://github.com/hailehong95/malcheck-client)
+
 # Malware Automation Check Client
 A Tool for Malware checking in client computer, collecting security data, standardized output and then send to the Central Storage System.
 
