@@ -1,0 +1,3 @@
+- ConfuserEx: https://yck1509.github.io/ConfuserEx/
+- LazySign: https://github.com/jfmaes/LazySign
+- PS2EXE: https://github.com/MScholtes/PS2EXE; https://gallery.technet.microsoft.com/scriptcenter/PS2EXE-GUI-Convert-e7cb69d5

@@ -1,0 +1,7 @@
+- Autoruns: https://live.sysinternals.com/autorunsc.exe
+- PsLogList: https://live.sysinternals.com/psloglist.exe
+- SigCheck: https://live.sysinternals.com/sigcheck.exe
+- BrowserAddonsView: https://www.nirsoft.net/utils/web_browser_addons_view.html
+- LastActivityView: https://www.nirsoft.net/utils/computer_activity_view.html
+- CurrPorts: https://www.nirsoft.net/utils/cports.html
+- 7-Zip: https://www.7-zip.org/download.html
