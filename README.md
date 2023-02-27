@@ -30,20 +30,15 @@ Running the tool will take a while, depending on the machine, but it will be fas
 MalAuto.exe
 ```
 
-The program will ask to enter the information of the personnel, this is to identify each employee when performing the scan. Need to enter the correct information Full Name and Personnel Code:
+The program will ask to enter the information of the personnel, this is to identify each employee when performing the scan. Need to enter the correct information Full Name and Personnel Code
 
-![credential form](assets/input-user.png)
 
 ### 2.3. Result
 
-When finished, the results will be saved in the **reports** folder, example:
-
-![credential form](assets/example_report1.png)
+When finished, the results will be saved in the **reports** folder
 
 
-**upload** folder will contain a single compressed file that includes all files and folders contained in **report**. The file name is set according to the identifier of each machine:
-
-![credential form](assets/al-in-one-report-zip.png)
+**upload** folder will contain a single compressed file that includes all files and folders contained in **report**. The file name is set according to the identifier of each machine.
 
 ## 3. System Requirements
 
